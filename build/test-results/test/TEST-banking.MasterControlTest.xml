@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.MasterControlTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-04T04:56:43" hostname="Mustafas-MacBook-Pro.local" time="0.043">
+  <properties/>
+  <testcase name="test_scenario_two()" classname="banking.MasterControlTest" time="0.043"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
